@@ -1,0 +1,29 @@
+CACHE MANIFEST
+# v5
+#
+index.html
+ExpenseTracker.js
+
+js/backbone-min.js
+js/jquery-2.1.0.min.js
+js/pouchdb-2.2.0.min.js
+js/underscore-min.js
+js/jquery.dataTables.min.js
+
+css/expenses.css
+css/jquery.dataTables.min.css
+
+images/back_disabled.png
+images/back_enabled_hover.png
+images/back_enabled.png
+images/forward_disabled.png
+images/forward_enabled_hover.png
+images/forward_enabled.png
+images/sort_asc_disabled.png
+images/sort_asc.png
+images/sort_both.png
+images/sort_desc_disabled.png
+images/sort_desc.png
+
+NETWORK:
+*
